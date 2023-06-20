@@ -18,6 +18,6 @@ const Background = ({children}) =>{
 }
 
 
-const styles =StyleSheet.create({})
+
 
 export default Background;
