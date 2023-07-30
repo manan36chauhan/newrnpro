@@ -4,6 +4,9 @@ import Background from './Background'
 
 export default function home() {
   return (
-    <Background></Background>
+    <Background>
+
+    <Text style={{color:'white',fontSize:64}}>Lets's go</Text>
+    </Background>
   )
 }
