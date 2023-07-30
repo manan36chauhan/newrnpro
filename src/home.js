@@ -6,7 +6,7 @@ export default function home() {
   return (
     <Background>
 
-    <Text style={{color:'white',fontSize:64}}>Lets's go</Text>
+    <Text style={{color:'black',fontSize:64}}>Lets's go dude</Text>
     </Background>
   )
 }
